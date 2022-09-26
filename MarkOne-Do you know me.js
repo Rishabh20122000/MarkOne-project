@@ -56,7 +56,7 @@ function game() {
 }
 
 function showScores() {
-  console.log("YAY! You SCORED: ", score);
+  console.log("RESULT! You SCORED: ", score);
   if (score > 3){
     console.log("Impressive, You know him very well");
    
