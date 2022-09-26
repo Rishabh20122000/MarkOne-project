@@ -12,22 +12,22 @@ function welcome() {
 
 // array of keyboards and their object
 var questions = [{
-  question: "Where does he lives? \na.Mumbai \nb.Delhi \nc.Bangalore",
+  question: "Where does he lives? \na.Mumbai \nb.Delhi \nc.Bangalore\n",
   answer: "Mumbai"
 }, {
   question: "His favorite actor? \na.Shahrukh \nb.Tom Cruise \nc.Brat Pitt ",
   answer: "Shahrukh"
 },
 {
-  question: "Where does he work? \na.Ubisoft \nb.Netflix \nc.Google",
+  question: "Where does he work? \na.Ubisoft \nb.Netflix \nc.Google\n",
   answer: "Ubisoft"
 },
 {
-  question: "What is his favourate 'AAA' pc game? \na.GTA \nb.WWII \nc.Witcher",
+  question: "What is his favourate 'AAA' pc game? \na.GTA \nb.WWII \nc.Witcher\n",
   answer : " GTA"
 },
 {
-  question: "Which is his favourate series? \na.Vikings \nb.Mirzapur \nc.Witcher",
+  question: "Which is his favourate series? \na.Vikings \nb.Mirzapur \nc.Witcher\n",
   answer: "Vikings"
 }];
 
